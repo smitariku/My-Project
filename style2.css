@@ -1,0 +1,72 @@
+*{
+	margin:0px;
+    padding:0px;
+
+ }
+ 
+.bgimage{
+	background-image: url('570089-John-Adams-Quote-Every-problem-is-an-opportunity-in-disguise.jpg');
+    background-size: 100% 110%;
+    width: 100%;
+    height: 100%;
+}
+.menu{
+	width: 100%;
+	height: 20%;
+	background-color: grey;
+}
+.leftmenu{
+	width: 25%;
+	line-height: 80px;
+	float: left;
+}
+.leftmenu h4{
+	padding-left: 70px;
+	font-weight: bold;
+	color: white;
+	font-size: 30px;
+}
+.rightmenu{
+	width: 75%;
+	height: 100%;
+	float:right;
+}
+.rightmenu ul{
+	margin-left: 200px;
+}
+.rightmenu ul li{
+	display:inline-block;
+	font-size: 15px;
+	color: white;
+	font-weight: bold;
+	line-height: 80px;
+	margin-left: 10%;
+	text-transform: uppercase;
+}
+.rightmenu ul li:hover{
+	color: blue;
+}
+.text{
+	width: 100%;
+	margin-top: 370px;
+	text-align: center;
+	color: white;
+	border-top: black;
+}
+.text h3{
+	font-size: 60px;
+}
+#buttonone{
+	background-color: white;
+	border: black;
+	font-size: 24px;
+	width: 150px;
+	border: 5px solid grey;
+}
+#buttontwo{
+	background-color: white;
+	border: black;
+	font-size: 24px;
+	width: 150px;
+	border: 5px solid grey; 
+}
